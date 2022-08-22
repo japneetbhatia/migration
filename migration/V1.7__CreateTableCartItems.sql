@@ -1,0 +1,1 @@
+create table carts__item(Id varchar(20), cart_id varchar(20), product_id varchar(20), quantity int);
